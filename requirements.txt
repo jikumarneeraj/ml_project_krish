@@ -3,5 +3,7 @@ pandas
 python-dotenv
 psycopg2
 scikit-learn
-
+seaborn
+catboost
+xgboost
 # -e .
