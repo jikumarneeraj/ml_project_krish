@@ -1,4 +1,7 @@
 numpy
 pandas
+python-dotenv
+psycopg2
+scikit-learn
 
--e .
+# -e .
